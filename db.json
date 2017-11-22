@@ -2,10 +2,35 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "rest list element 1"
+    },
+    {
+      "id": 2,
+      "title": "rest list element 2"
+    },
+    {
+      "id": 3,
+      "title": "rest list element 3"
+    },
+    {
+      "id": 4,
+      "title": "rest list element 4"
+    },
+    {
+      "id": 5,
+      "title": "rest list element 5"
+    },
+    {
+      "id": 6,
+      "title": "rest list element 6"
+    },
+    {
+      "id": 7,
+      "title": "rest list element 7"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "user@test.com",
+    "password": "123456"
   }
 }
